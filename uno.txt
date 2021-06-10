@@ -2,3 +2,5 @@ Numero1
 
 Esta clase es genial aprender la red social de los programadores
 Hoy aprendimos como conctarnos a github
+Este es el primer numero de todos, sin tener en cuenta el cero.
+Es mi numero de la suerte.
