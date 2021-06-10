@@ -1,1 +1,4 @@
 Numero1
+
+Este es el primer numero de todos, sin tener en cuenta el cero.
+Es mi numero de la suerte.
