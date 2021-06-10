@@ -1,1 +1,4 @@
 Numero1
+
+Esta clase es genial aprender la red social de los programadores
+Hoy aprendimos como conctarnos a github
